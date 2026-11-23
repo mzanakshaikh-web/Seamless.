@@ -1,0 +1,5 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:gravity="center_vertical" android:padding="10dp" android:background="#171717" android:layout_width="match_parent" android:layout_height="match_parent">
+ <TextView android:id="@+id/widget_title" android:text="Seamless · Ready to play" android:textColor="#FFFFFF" android:textSize="13sp" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content"/>
+ <Button android:id="@+id/widget_play" android:text="▶ / Ⅱ" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+ <Button android:id="@+id/widget_next" android:text="»" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</LinearLayout>
